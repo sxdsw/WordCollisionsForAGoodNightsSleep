@@ -11,6 +11,9 @@ venv/
 # Generated output
 build/
 
+# Tested Scripts
+tests/
+
 # Large corpus / derived data (keep the small ones)
 data/pg43629.txt
 data/sentences.jsonl
