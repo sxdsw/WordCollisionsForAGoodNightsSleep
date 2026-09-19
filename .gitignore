@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated output
+build/
+
+# Large corpus / derived data (keep the small ones)
+data/pg43629.txt
+data/sentences.jsonl
+
+RUNNING.md
