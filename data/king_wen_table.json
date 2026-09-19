@@ -1,0 +1,770 @@
+{
+  "1": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "111111",
+    "decimal": 63
+  },
+  "2": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "000000",
+    "decimal": 0
+  },
+  "3": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "100010",
+    "decimal": 17
+  },
+  "4": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "010001",
+    "decimal": 34
+  },
+  "5": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "111010",
+    "decimal": 23
+  },
+  "6": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "010111",
+    "decimal": 58
+  },
+  "7": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "010000",
+    "decimal": 2
+  },
+  "8": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "000010",
+    "decimal": 16
+  },
+  "9": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "111011",
+    "decimal": 55
+  },
+  "10": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "110111",
+    "decimal": 59
+  },
+  "11": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "111000",
+    "decimal": 7
+  },
+  "12": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "000111",
+    "decimal": 56
+  },
+  "13": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "101111",
+    "decimal": 61
+  },
+  "14": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "111101",
+    "decimal": 47
+  },
+  "15": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "001000",
+    "decimal": 4
+  },
+  "16": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "000100",
+    "decimal": 8
+  },
+  "17": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "100110",
+    "decimal": 25
+  },
+  "18": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "011001",
+    "decimal": 38
+  },
+  "19": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "110000",
+    "decimal": 3
+  },
+  "20": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "000011",
+    "decimal": 48
+  },
+  "21": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "100101",
+    "decimal": 41
+  },
+  "22": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "101001",
+    "decimal": 37
+  },
+  "23": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "000001",
+    "decimal": 32
+  },
+  "24": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "100000",
+    "decimal": 1
+  },
+  "25": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "100111",
+    "decimal": 57
+  },
+  "26": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "111001",
+    "decimal": 39
+  },
+  "27": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "100001",
+    "decimal": 33
+  },
+  "28": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "011110",
+    "decimal": 30
+  },
+  "29": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "010010",
+    "decimal": 18
+  },
+  "30": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "101101",
+    "decimal": 45
+  },
+  "31": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "001110",
+    "decimal": 28
+  },
+  "32": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "011100",
+    "decimal": 14
+  },
+  "33": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "001111",
+    "decimal": 60
+  },
+  "34": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "111100",
+    "decimal": 15
+  },
+  "35": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "000101",
+    "decimal": 40
+  },
+  "36": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "101000",
+    "decimal": 5
+  },
+  "37": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "101011",
+    "decimal": 53
+  },
+  "38": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "110101",
+    "decimal": 43
+  },
+  "39": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "001010",
+    "decimal": 20
+  },
+  "40": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "010100",
+    "decimal": 10
+  },
+  "41": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "110001",
+    "decimal": 35
+  },
+  "42": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "100011",
+    "decimal": 49
+  },
+  "43": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "111110",
+    "decimal": 31
+  },
+  "44": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "binary_str": "011111",
+    "decimal": 62
+  },
+  "45": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "000110",
+    "decimal": 24
+  },
+  "46": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "binary_str": "011000",
+    "decimal": 6
+  },
+  "47": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "010110",
+    "decimal": 26
+  },
+  "48": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "011010",
+    "decimal": 22
+  },
+  "49": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "101110",
+    "decimal": 29
+  },
+  "50": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "011101",
+    "decimal": 46
+  },
+  "51": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "100100",
+    "decimal": 9
+  },
+  "52": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "binary_str": "001001",
+    "decimal": 36
+  },
+  "53": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "001011",
+    "decimal": 52
+  },
+  "54": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "110100",
+    "decimal": 11
+  },
+  "55": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "101100",
+    "decimal": 13
+  },
+  "56": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "001101",
+    "decimal": 44
+  },
+  "57": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "011011",
+    "decimal": 54
+  },
+  "58": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "binary_str": "110110",
+    "decimal": 27
+  },
+  "59": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "010011",
+    "decimal": 50
+  },
+  "60": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "110010",
+    "decimal": 19
+  },
+  "61": {
+    "lines_bottom_to_top": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "binary_str": "110011",
+    "decimal": 51
+  },
+  "62": {
+    "lines_bottom_to_top": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "binary_str": "001100",
+    "decimal": 12
+  },
+  "63": {
+    "lines_bottom_to_top": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "binary_str": "101010",
+    "decimal": 21
+  },
+  "64": {
+    "lines_bottom_to_top": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "binary_str": "010101",
+    "decimal": 42
+  }
+}
