@@ -9,7 +9,7 @@ __pycache__/
 venv/
 
 # Generated output
-build/
+build/ 
 
 # Tested Scripts
 tests/
